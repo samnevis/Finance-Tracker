@@ -16,7 +16,7 @@ Finance Tracker is a personal budgeting and expense-tracking web application bui
 
 ## Screenshots
 ![working screenshot](screenshots/working.png)
-![error screenshot](screenshots/error.png)
+<!-- ![error screenshot](screenshots/error.png) -->
 
 ---
 
